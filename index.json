@@ -588,8 +588,17 @@
     },
     {
       "fullPath": "presets/4.3/modes/nemesisxb_modes.txt",
-      "hash": "9b84475189f69b8b29c9a940f7ccb035470c4c99b1f75ca00a346785078eba7a",
-      "options": [],
+      "hash": "08858890dd1d1f20276d47fbbdea159cda958d207028654931d4c5495dddf7cb",
+      "options": [
+        {
+          "name": "5 Power Levels",
+          "checked": true
+        },
+        {
+          "name": "4 Power Levels",
+          "checked": false
+        }
+      ],
       "title": "NemesisXB Modes",
       "firmware_version": [
         "4.3"
